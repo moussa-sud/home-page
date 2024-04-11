@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(193, 203, 211);
+    text-align: center;
+    padding: 25px;
+}
+
+nav {
+    height: 50px;
+    background-color: rgb(27, 23, 23);
+}
+
+aside {
+    width: 20%;
+    float: left;
+}
+
+section {
+    width: 20%;
+    float: left;
+}
+
+article {
+    width: 20%;
+    float: left;
+}
+footer{
+    display: block;
+    padding: 15px ;
+    background-color: rgb(140, 167, 189);
+    clear: both;
+    text-align: center;
+}
+
+
+.footer-copyright {
+    font-size: 0.8em;
+    margin-top: 10px;
+}
